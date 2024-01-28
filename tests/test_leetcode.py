@@ -2,7 +2,7 @@
 
 import unittest
 
-from leetcode import fibonacci, is_palindrome
+from _init__ import fibonacci, is_palindrome
 
 
 class TestLeetCode(unittest.TestCase):
